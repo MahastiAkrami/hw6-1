@@ -30,3 +30,23 @@
 ![https://github.com/Shigapova/hw6/blob/master/image.png](https://github.com/Shigapova/hw6/blob/master/image.png)
 
 ![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff.png)
+
+(Место для подумать) 
+
+### AntConc (Задание Б):
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff1.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff1.png)
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff2.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff2.png)
+
+(место для описания) 
+
+### AntConc (Задание B):
+
+Слово 1. 
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff3.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff3.png)
+
+Слово 2. 
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff4.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff4.png)
