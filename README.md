@@ -27,4 +27,6 @@
 
 ### AntConc (Задание А):
 
+![https://github.com/Shigapova/hw6/blob/master/image.png](https://github.com/Shigapova/hw6/blob/master/image.png)
 
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff.png)
