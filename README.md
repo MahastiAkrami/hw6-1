@@ -4,7 +4,7 @@
 
 ### Наиболее частое употребление фразы "due to the":
 
-!(https://github.com/Shigapova/hw6/blob/master/-B7HaAmeEDA.jpg)
+![https://github.com/Shigapova/hw6/blob/master/-B7HaAmeEDA.jpg](https://github.com/Shigapova/hw6/blob/master/-B7HaAmeEDA.jpg)
 
 ## Ngrams Задание 2. 
 
