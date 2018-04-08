@@ -43,6 +43,8 @@
 
 ### AntConc (Задание B):
 
+"Анна Каренина"
+
 Слово 1. 
 
 ![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff3.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff3.png)
@@ -50,3 +52,14 @@
 Слово 2. 
 
 ![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff4.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff4.png)
+
+Слово 3.
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff5.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff5.png)
+
+
+"Оскар и розовая дама"
+
+Слово 1. 
+
+![]()
