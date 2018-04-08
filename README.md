@@ -23,7 +23,7 @@
 Иную ситуацию можно наблюдать при сравнивании употребрения слова autumn в двух корпусах.(Стоит также упомянуть о том, что частота использования слова autumn в любом корпусе ниже частоты использования слова fall). Ипользование этого слова в корпусе британского английского в любое время выше, чем использование его в американском английском. Таким образом, можно понять, что его частотность никак не связана со временем его употребления. 
 
 ## AntConc 
-Для выполнения всех заданий этой части я использовала текст Л. Н. Толстого "Анна Каренина" и рассказ Э. Шмитта "Оскар и розовая дама".
+Для выполнения всех заданий этой части я использовала текст Л. Н. Толстого "Анна Каренина" и рассказ Э. Шмитта "Оскар и Розовая дама".
 
 ### AntConc (Задание А):
 
@@ -57,9 +57,55 @@
 
 ![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff5.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff5.png)
 
+(Место для подумать)
 
-"Оскар и розовая дама"
+
+"Оскар и Розовая дама"
 
 Слово 1. 
 
-![]()
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff6.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff6.png)
+
+Слово 2. 
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff7.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff7.png)
+
+Слово 3.
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff8.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff8.png)
+
+(Место для подумать)
+
+### AntConc (Задание Г):
+
+"Анна Каренина"
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff9.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff9.png)
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff10.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff10.png)
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff11.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff11.png)
+
+"Оскар и Розовая дама"
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff12.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff12.png)
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff13.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff13.png)
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff14.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff14.png)
+
+### AntConc (Задание Д):
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff15.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff15.png)
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff16.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff16.png)
+
+### AntConc (Задание Е):
+
+
+
+### AntConc (Задание Ж):
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff17.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff17.png)
+
+![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff18.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff18.png)
