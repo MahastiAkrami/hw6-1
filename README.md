@@ -99,7 +99,11 @@
 
 ### AntConc (Задание Д):
 
+"Оскар и Розовая дама" 
+
 ![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff15.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff15.png)
+
+"Анна Каренина"
 
 ![https://github.com/Shigapova/hw6/blob/master/ffffffffffffff16.png](https://github.com/Shigapova/hw6/blob/master/ffffffffffffff16.png)
 
